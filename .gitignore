@@ -1,0 +1,14 @@
+.*
+!.gitignore
+__pycache__/
+*.pyc
+wandb/
+outputs/
+logs/
+sandbox/*.log
+checkpoints/
+
+# model checkpoints
+*.pt
+*.pth
+*.ckpt
